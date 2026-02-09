@@ -1,0 +1,6 @@
+[submodule "library/AvatarTranstexhter_wire_core"]
+	path = library/AvatarTranstexhter_wire_core
+	url = git@github.com:tremagiro/AvatarTranstexhter_wire_core.git
+[submodule "sub_firmware/stepper_zero"]
+	path = sub_firmware/stepper_zero
+	url = git@github.com:tremagiro/stepper_zero.git
