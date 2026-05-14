@@ -4,3 +4,9 @@
 [submodule "sub_firmware/stepper_zero"]
 	path = sub_firmware/stepper_zero
 	url = git@github.com:tremagiro/stepper_zero.git
+[submodule "main_firmware/AvatarTranstexhter_main"]
+	path = main_firmware/AvatarTranstexhter_main
+	url = git@github.com:tremagiro/AvatarTranstexhter_main.git
+[submodule "library/avatarTranstexhter_json_cor"]
+	path = library/avatarTranstexhter_json_cor
+	url = git@github.com:tremagiro/avatarTranstexhter_json_cor.git
